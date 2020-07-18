@@ -6,7 +6,7 @@
 
 <div  align="center">
   <li align="center">
-    <ul align="center">:heart: Full Stack Developer</ul>
+    <ul align="center"> :heart: Full Stack Developer</ul>
     <ul>:earth_americas: I'm from Santo Domingo - Dominican Republic</ul>
     <ul>:video_game: I like to play video games</ul>
   </li>
