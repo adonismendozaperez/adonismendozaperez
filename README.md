@@ -5,9 +5,9 @@
 </p>
 
 <div  align="center">
-  <li align="center">
-    <ul align="center"> :heart: Full Stack Developer</ul>
-    <ul>:earth_americas: I'm from Santo Domingo - Dominican Republic</ul>
-    <ul>:video_game: I like to play video games</ul>
-  </li>
+    <p align="center"> :heart: Full Stack Developer</p>
+    <p align="center">:earth_americas: I'm from Santo Domingo - Dominican Republic</p>
+   <p align="center">:video_game: I like to play video games</p>
 </div>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adonismendozaperez&show_icons=true" alt="AdonisMendoza" /> </p>
