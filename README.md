@@ -1,13 +1,17 @@
-<h2 align="center"> Hi, I'm Adonis Mendoza!</h2>
-<p align="center">
-	<a href="https://twitter.com/adonismdza"><img src="https://img.shields.io/twitter/follow/adonismdza?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/adonismendoza"><img src="https://img.shields.io/badge/-adonismendoza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonismendoza/" alt="LinkedIn"></a>
-</p>
+# Hi there, I'm Adonis Mendoza! :hand:
 
-<div  align="center">
-    <p align="center"> :heart: Full Stack Developer</p>
-    <p align="center">:earth_americas: I'm from Santo Domingo - Dominican Republic</p>
-   <p align="center">:video_game: I like to play video games</p>
-</div>
+## Bio
+I'm a Software Developer with more than 5 years of experience
+with Microsoft technologies (.Net Core, SQL Server/T-SQL, EF Core) and JavaScript.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adonismendozaperez&show_icons=true" alt="AdonisMendoza" /> </p>
+## How you can reach me?
+
+- Linkedin: https://www.linkedin.com/in/adonismendoza
+- Twitter: https://twitter.com/adonismdza/
+
+
+
+## My stats (still developing myself)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonismendozaperez&layout=compact&theme=radical)](https://github.com/adonismendozaperez/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adonismendozaperez&theme=radical&show_icons=true)
