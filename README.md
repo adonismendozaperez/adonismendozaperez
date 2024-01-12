@@ -1,10 +1,21 @@
 # Hi there, I'm Adonis Mendoza! :hand:
 
 ## Bio
-I'm a Software Developer with more than 5 years of experience
-with Microsoft technologies (.Net Core, SQL Server/T-SQL, EF Core) and JavaScript.
+I am a software Engineer with over 5 years in the industry, I have extensive knowledge of the entire software development lifecycle: Requirement Analyst, design, development, and testing. I can work effectively alone but I'd rather be on a team.
 
-## How you can reach me?
+These are some areas of my expertise...
+_ Back-end development: ASP.Net (Web Forms, MVC, WCF, Web API), ASP.net Core (MVC, Rest API, Windows Service)
+_ Front-end development: HTML, CSS, JS (React, JQuery, AngularJs, Typescript)
+_ Data storage: SQL Server, Oracle
+_ Agile methodologies: Scrum
+
+Some achievements in a few companies:
+- Implementation of Azure DevOps/CI
+- Implementation of Power BI
+- Implementation of Caching server with Redis
+- Implementation of SCRUM methodology
+
+## How can you reach me?
 
 - Linkedin: https://www.linkedin.com/in/adonismendoza
 - Twitter: https://twitter.com/adonismdza/
