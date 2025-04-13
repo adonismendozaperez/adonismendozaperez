@@ -1,28 +1,17 @@
-# Hi there, I'm Adonis Mendoza! :hand:
+# ¡Howdy, I'm Adonis Mendoza! 👋
 
-## Bio
-I am a software Engineer with over 5 years in the industry, I have extensive knowledge of the entire software development lifecycle: Requirement Analyst, design, development, and testing. I can work effectively alone but I'd rather be on a team.
+_Full-Stack Developer with a passion for innovation._
 
-These are some areas of my expertise:
-- Back-end development: ASP.Net (Web Forms, MVC, WCF, Web API), ASP.net Core (MVC, Rest API, Windows Service)
-- Front-end development: HTML, CSS, JS (React, JQuery, AngularJs, Typescript)
-- Data storage: SQL Server, Oracle
-- Agile methodologies: Scrum
+### About Me
+I am a professional who enjoys learning and sharing knowledge in web development and scalable applications. I love to face new challenges and collaborate on interesting projects.
 
-Some achievements in a few companies:
-- Implementation of Azure DevOps/CI
-- Implementation of Power BI
-- Implementation of Caching server with Redis
-- Implementation of SCRUM methodology
+### My GitHub Stats
 
-## How can you reach me?
-
-- Linkedin: https://www.linkedin.com/in/adonismendoza
-- Twitter: https://twitter.com/adonismdza/
-
-
-
-## My stats (still developing myself)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonismendozaperez&layout=compact&theme=radical)](https://github.com/adonismendozaperez/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adonismendozaperez&theme=radical&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adonismendozaperez&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonismendozaperez)
+
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/adonismendoza)
+- [Blog](https://medium.com/@adonis.mendoza)
