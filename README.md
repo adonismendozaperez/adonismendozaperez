@@ -5,13 +5,16 @@ _Full-Stack Developer with a passion for innovation._
 ### About Me
 I am a professional who enjoys learning and sharing knowledge in web development and scalable applications. I love to face new challenges and collaborate on interesting projects.
 
-### My GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=adonismendozaperez)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonismendozaperez&layout=compact&theme=radical)](https://github.com/adonismendozaperez/github-readme-stats)
+## Contacts:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonismendoza)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adonis.mendoza@outlook.com)
+---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adonismendozaperez&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonismendozaperez)
+### 🏆 Github Stats:
 
-### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/adonismendoza)
-- [Blog](https://medium.com/@adonis.mendoza)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonismendozaperez&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adonismendozaperez&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+</p>
